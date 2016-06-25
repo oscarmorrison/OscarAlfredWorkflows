@@ -7,4 +7,9 @@ Alfred is an aesome productivity app for macOS.
 This repo is a compilation of some useful workflows
 
 - **Open in Safari**  
-open the current chrome window into safari
+open the current Google Chrome window into Safari  
+[Safari.workflow](https://github.com/oscarmorrison/OscarAlfredWorkflows/blob/master/Open%20in%20Safari.alfredworkflow)
+
+- **Open in Chrome**  
+open the current Safari window into Google Chrome  
+[Chrome.workflow](https://github.com/oscarmorrison/OscarAlfredWorkflows/blob/master/Open%20in%20Chrome.alfredworkflow)
